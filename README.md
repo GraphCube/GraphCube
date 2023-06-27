@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GraphCube
-- 👀 I’m interested in technical writing
-- 🌱 I’m currently learning Docs-as-Code
-- 💞️ I’m looking to collaborate on technical writing projects, especially in creating clear, concise guides.
+- 👀 I’m interested AI generative tools
+- 🌱 I’m currently developing a Python API for CHAT GPT
 - 📫 How to reach me: keith@graphcube.com
 
 <!---
